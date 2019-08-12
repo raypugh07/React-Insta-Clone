@@ -1,3 +1,6 @@
+Deployed link! https://instacloneray.netlify.com/
+
+
 # React-Insta-Clone
 
 ## Introduction
